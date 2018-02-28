@@ -11,10 +11,3 @@ sub
 code
 
 ```
-
-for bullet points
-*jhfwjef
-
-for number
-1.
-
